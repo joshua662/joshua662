@@ -1,7 +1,10 @@
 # 💫About Me
 🔭 I’m a student learning programming and backend development, starting with PHP, Python, and Laravel.
+
 🧑‍🤝‍🧑 I want to collaborate on simple projects that involve databases, APIs, or IoT hardware like ESP32.
+
 🌟 My dream is to become a software engineer, building useful systems that connect hardware and software.
+
 ⚡ Fun fact: I enjoy experimenting with gadgets like RFID readers and cameras, then linking them to web apps.
 
 ## 🌐 Socials:
