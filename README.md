@@ -1,5 +1,13 @@
-# 🛠️ I'm a student learning programming and backend development, starting with PHP, Python, and Laravel. 🙌 I want to collaborate on simple projects that involve databases, APIs, or IoT hardware like ESP32. 🌟 My dream is to become a software engineer, building useful systems that connect hardware and software. ⚡ Fun fact: I enjoy experimenting with gadgets like RFID readers and cameras, then linking them to web apps.
+# 🌟 About Me
+🔭 I’m currently learning how to build websites, APIs, and small automation projects using PHP and Python.
 
+🧑‍🤝‍🧑 I’d love to collaborate on school projects or beginner tech ideas, especially those involving databases or IoT hardware like the ESP32.
+
+🤝 I’m looking for guidance on improving backend performance, writing better SQL queries, and learning secure login systems.
+
+🌱 I’m exploring advanced Laravel, Node.js basics, and Git for teamwork.
+
+⚡ Fun fact: I enjoy mixing hardware with software — like streaming sensor data into a database or linking RFID readers to a web app.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@josh.simpas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mi_shuaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-simpas-5b7b1639a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuasimpas36@gmail.com) 
