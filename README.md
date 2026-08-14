@@ -1,6 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building RESTful APIs with PHP and experimenting with Python for automation and backend scripts.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on  <br>Projects involving database design, API development, or IoT integrations with hardware like ESP32.<br><br>🤝 I’m looking for help with  <br>Scaling backend systems, optimizing SQL queries, and learning best practices for secure authentication.<br><br>🌱 I’m currently learning  <br>Advanced Laravel concepts, Node.js for backend services, and Git workflows for team collaboration.<br><br>💬 Ask me about  <br>Setting up ESP32-CAM streams, debugging Python scripts, or integrating RFID systems with backend dashboards.<br><br>⚡ Fun fact  <br>I enjoy connecting hardware projects to backend systems — like linking RFID readers to a web API or streaming IoT sensor data into a database.
-
+# 💫About Me
+🔭 I’m a student learning programming and backend development, starting with PHP, Python, and Laravel.
+🧑‍🤝‍🧑 I want to collaborate on simple projects that involve databases, APIs, or IoT hardware like ESP32.
+🌟 My dream is to become a software engineer, building useful systems that connect hardware and software.
+⚡ Fun fact: I enjoy experimenting with gadgets like RFID readers and cameras, then linking them to web apps.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@josh.simpas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mi_shuaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-simpas-5b7b1639a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuasimpas36@gmail.com) 
