@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Software Engineer in training, focused on PHP, Python, and backend development.<br>💻 Exploring Laravel, Node.js, and Git to build scalable systems.<br>🤝 Interested in collaborating on projects with databases, and IoT hardware.<br>⚡ Passionate about connecting hardware with software like sensor data or linking RFID readers to web apps.
+🛠️ Software Engineer in training, focused on PHP, Python, frontend development and backend development.<br>💻 Exploring Laravel, Node.js, and Git to build scalable systems.<br>🤝 Interested in collaborating on projects with databases, and IoT hardware.<br>⚡ Passionate about connecting hardware with software like sensor data or linking RFID readers to web apps.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/josh.simpas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joshua-simpas-5b7b1639a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuasimpas36@gmail.com) 
