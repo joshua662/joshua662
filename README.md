@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Full Stack Developer in training, focused on PHP, C#, and end-to-end web-based.<br>💻 Exploring Laravel, Node.js, databases, and Git to build scalable backend systems and responsive frontend system.<br>🤝 Interested in collaborating on projects of web development with database, and IoT hardware.<br>⚡ Passionate about connecting hardware and software like sensor data or linking RFID to web dev.
+🛠️ Full Stack Developer in training, focused on PHP, C#, and end-to-end web-based.<br>💻 Exploring Laravel, Node.js, database, and Git to build scalable backend systems and responsive frontend system.<br>🤝 Interested in collaborating on projects of web development with database, and IoT hardware.<br>⚡ Passionate about connecting hardware and software like sensor data or linking RFID to web dev.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/josh.simpas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuasimpas36@gmail.com) 
